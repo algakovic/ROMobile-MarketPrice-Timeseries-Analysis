@@ -2,7 +2,7 @@
 
 Hello,
 
-This notebook is a project where I can interact with the RO Mobile Exchange API (see API Docs below). The project scope is:
+This notebook is a project where I can interact with the RO Mobile Exchange API (see API Docs below) and perform time series analysis on the data. The project scope is:
 
 - Making requests and obtaining data.
 - Using Data in time series analysis.
