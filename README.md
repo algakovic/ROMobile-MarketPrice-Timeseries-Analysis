@@ -9,7 +9,8 @@ This notebook is a project where I can interact with the RO Mobile Exchange API 
 
 The data coveted is the historical market value of items in the game.
 
-API Docs : https://jessicayeh.github.io/rom-exchange-openapi/#section/Recent-Changes
+
+1. [Link](https://jessicayeh.github.io/rom-exchange-openapi/#section/Recent-Changes) to API Docs
 
 # Contents
 
