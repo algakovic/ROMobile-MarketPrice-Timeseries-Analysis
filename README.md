@@ -11,7 +11,7 @@ The data coveted is the historical market value of items in the game.
 
 ## Key files
 1. [Link](https://jessicayeh.github.io/rom-exchange-openapi/#section/Recent-Changes) to API Docs
-
+2. ROMExchange.csv 
 # Contents
 
 1. **Importing Libraries**  
