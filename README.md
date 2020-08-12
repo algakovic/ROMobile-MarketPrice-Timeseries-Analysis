@@ -5,7 +5,7 @@ This notebook is a project where I can interact with the RO Mobile Exchange API 
 
 - Making requests and obtaining data.
 - Using Data in time series analysis.
-- Implementing time series models e.g. SarimaX
+- Experiment with time series modeling.
 
 The data coveted is the historical market value of items in the game.
 
@@ -33,7 +33,7 @@ There are intriguing differences between item value between the servers.
 High priority items of interest tend to start with high value when they are new to the market.
 Observe the following visualisation made of the ' Abyss Flower' Item:
 
-![monthly average of Abyss Flowers](./Images/AbyssFlower_monthly_avg_price.jpg)
+![monthly average of Abyss Flowers](./Images/AbyssFlower_monthly_avg_price.jpg)  
 This monthly average shows the typical trend of such high priority items in game.
 
 The data is collected at irregular time intervals. Which makes time series analysis less straightforward.
