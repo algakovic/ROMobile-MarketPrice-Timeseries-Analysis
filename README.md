@@ -33,7 +33,7 @@ There are intriguing differences between item value between the servers.
 High priority items of interest tend to start with high value when they are new to the market.
 Observe the following visualisation made of the ' Abyss Flower' Item:
 
-![Abyss Flower](/Images/AbyssFlower_monthly_avg_price.png)
+![monthly average of Abyss Flowers](/Images/AbyssFlower_monthly_avg_price.png)
 This monthly average shows the typical trend of such high priority items in game.
 
 The data is collected at irregular time intervals. Which makes time series analysis 
