@@ -41,6 +41,6 @@ The reading points to building a continuous time stochastic model.
 
 # Conclusions
 
-
+To be made.
 # Recommendations for future research
-N/A
+To be made.
