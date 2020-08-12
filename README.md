@@ -11,10 +11,10 @@ The data coveted is the historical market value of items in the game.
 
 ## Key files
 1. [Link](https://jessicayeh.github.io/rom-exchange-openapi/#section/Recent-Changes) to API Docs
-2. ROMExchange.db is sqlite database containing historical market value prices of items.
-3. Romobile_timeseries_analysis.ipynb is main project notebook
+2. ROMExchange.db: sqlite database containing historical market value prices of items.
+3. Romobile_timeseries_analysis.ipynb: main project notebook
 
-# Contents
+# Methodology
 
 1. **Importing Libraries**  
 2. **Making requests**  
