@@ -22,3 +22,24 @@ The data coveted is the historical market value of items in the game.
 4. **Cleaning Data**  
 5. **Exploratory Data analysis**  
 5. **Time series modeling**  
+
+# Key Findings
+The API used to obtain the data stopped collecting real time item data in January 2020. 
+Obtaining the data using the API and importing it into a Pandas DataFrame was straightforward. 
+
+Data is distributed into one of two main categories: Global and SEA Server.
+There are intriguing differences between item value between the servers.
+
+High priority items of interest tend to start with high value when they are new to the market.
+Observe the following visualisation made of the ' Abyss Flower' Item:
+
+[Abyss Flower](Images/AbyssFlower_monthly_avg_price.png)
+This monthly average shows the typical trend of such high priority items in game.
+
+The data collected is not time-normalised
+
+# Conclusions
+
+
+# Recommendations for future research
+N/A
